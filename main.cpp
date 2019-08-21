@@ -7,7 +7,7 @@ void bubblesort(int arr[],int arr_len);
 
 int main(){
 
-int arreglo_de_numeros[10]={3,8,1,6,2,7,9,5,6,10};
+int arreglo_de_numeros[10]={3,8,1,6,2,7,9,5,6,11};
 
 bubblesort(arreglo_de_numeros, 10);
 
